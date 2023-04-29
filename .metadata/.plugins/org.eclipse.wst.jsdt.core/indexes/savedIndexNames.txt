@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/wafa/Desktop/javaee/eclipse/Projet/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1291866812.index
+2379409524.index
+1699229910.index
+410482169.index
+4245436413.index
+1162783489.index
+2467996508.index
